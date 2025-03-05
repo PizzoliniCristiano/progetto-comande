@@ -70,6 +70,11 @@
 
 
     echo "</table>";
+
+    echo "<a href='login.php'>
+            <button type='button' style='width: 500px; height: 50px; background-color: red; margin-top: 10px'>ESCI</button>";
+    echo "</a>";
+
     echo "</div>";
 
 
