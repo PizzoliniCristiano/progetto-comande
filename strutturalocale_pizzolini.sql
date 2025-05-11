@@ -87,7 +87,7 @@ CREATE TABLE `dettaglio_comanda` (
   `n_uscita` int(11) NOT NULL,
   `costo` int(11) NOT NULL,
   `prezzo` int(11) NOT NULL,
-  `quantità` int(11) NOT NULL,
+  `quantita` int(11) NOT NULL,
   `id_piatto` int(11) NOT NULL,
   `id_comanda` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
